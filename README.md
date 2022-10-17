@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+My name is Billy, and I am newly working towards Game Development.
+
+- 🏫 I am a second year student in Computer Science and Games Technology, studying at City, University of London.
+- 🔭 I’m currently working on Unreal Engine 5. I am a beginner!
+- 🌱 I’m currently learning C++.
+- 💭 The languages I am knowledgable in consist of Python and Java.
+- 🎮 I enjoy playing games both casually and competitively!
+
+You can find/contact me through [Twitter](https://twitter.com/billxFPS).
 <!--
 **billybcoyne/billybcoyne** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
