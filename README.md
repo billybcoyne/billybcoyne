@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there! 👋
 
 My name is Billy, and I am newly working towards Game Development.
 
