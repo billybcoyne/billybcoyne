@@ -8,7 +8,7 @@ My name is Billy, and I am newly working towards Game Development.
 - 💭 The languages I am knowledgable in consist of Python and Java.
 - 🎮 I enjoy playing games both casually and competitively!
 
-You can find/contact me through [Twitter](https://twitter.com/billxFPS).
+Feel free to drop a follow!
 <!--
 **billybcoyne/billybcoyne** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
