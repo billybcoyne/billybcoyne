@@ -1,12 +1,11 @@
 ### Hi there! 👋
 
-My name is Billy, and I am newly working towards Game Development.
+My name is Billy, and I am working in Cyber Security with a passion for Game Development.
 
-- 🏫 I am a second year student in Computer Science and Games Technology, studying at City, University of London.
-- 🔭 I’m currently working on Unreal Engine 5. I am a beginner!
-- 🌱 I’m currently learning C++.
-- 💭 The languages I am knowledgable in consist of Python and Java.
-- 🎮 I enjoy playing games both casually and competitively!
+- 👔 Working as a Cyber Security Analyst.
+- 🏫 Graduate in Computer Science with Games Technology, having studied at City, University of London.
+- 💭 Confident in C++ and Python, with experience in JavaScript, Java, HTML, SQL.
+- 🎮 Enjoy playing games both casually and competitively!
 
 Feel free to drop a follow!
 <!--
